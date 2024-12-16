@@ -7,7 +7,7 @@ For accessing a source code visit the below links(API, Admin Dashboard, Mobile A
 
 https://github.com/Nagarjuna0033/mess-mgmt-admin
 
-## mess monitoring backend (clound funtions)
+## mess monitoring backend (cloud funtions)
 
 https://github.com/Nagarjuna0033/mess-mgmt-api
 
